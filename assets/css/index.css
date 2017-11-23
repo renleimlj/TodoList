@@ -1,0 +1,12 @@
+h1 {
+    display:inline;
+    text-decoration:underline;
+}
+
+.info {
+    margin-top: 20px;
+}
+
+tr:hover {
+    text-decoration:underline;
+}
